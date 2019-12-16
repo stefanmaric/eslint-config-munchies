@@ -1,0 +1,21 @@
+{
+  "name": "@stefanmaric/eslint-config-munchies-react",
+  "version": "0.1.0",
+  "description": "Bite-sized eslint configurations for anyone, anywhere, at anytime — React specifics",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanmaric/eslint-config-munchies.git"
+  },
+  "author": "Stefan Maric <me@stefanmaric.com> (https://www.stefanmaric.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanmaric/eslint-config-munchies/issues"
+  },
+  "homepage": "https://github.com/stefanmaric/eslint-config-munchies/tree/master/react",
+  "peerDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-react-hooks": "^2.3.0"
+  }
+}

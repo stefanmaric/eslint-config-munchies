@@ -1,0 +1,20 @@
+{
+  "name": "@stefanmaric/eslint-config-munchies-node",
+  "version": "0.1.0",
+  "description": "Bite-sized eslint configurations for anyone, anywhere, at anytime — rules for NodeJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanmaric/eslint-config-munchies.git"
+  },
+  "author": "Stefan Maric <me@stefanmaric.com> (https://www.stefanmaric.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanmaric/eslint-config-munchies/issues"
+  },
+  "homepage": "https://github.com/stefanmaric/eslint-config-munchies/tree/master/node",
+  "peerDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-plugin-node": "^10.0.0"
+  }
+}

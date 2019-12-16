@@ -1,0 +1,19 @@
+{
+  "name": "@stefanmaric/eslint-config-munchies-base",
+  "version": "0.1.0",
+  "description": "Bite-sized eslint configurations for anyone, anywhere, at anytime — the base config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanmaric/eslint-config-munchies.git"
+  },
+  "author": "Stefan Maric <me@stefanmaric.com> (https://www.stefanmaric.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanmaric/eslint-config-munchies/issues"
+  },
+  "homepage": "https://github.com/stefanmaric/eslint-config-munchies/tree/master/base",
+  "peerDependencies": {
+    "eslint": "^6.7.2"
+  }
+}

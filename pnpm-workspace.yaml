@@ -1,0 +1,9 @@
+packages:
+  - base
+  - gourmet
+  - jsx
+  - jsx-gourmet
+  - modern
+  - modules
+  - node
+  - react
