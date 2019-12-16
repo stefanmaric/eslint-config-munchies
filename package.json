@@ -12,5 +12,8 @@
     "url": "https://github.com/stefanmaric/eslint-config-munchies/issues"
   },
   "author": "Stefan Maric <me@stefanmaric.com> (https://www.stefanmaric.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "publish": "pnpm recursive --filter '@stefanmaric/*' exec -- pnpm publish --access public"
+  }
 }
