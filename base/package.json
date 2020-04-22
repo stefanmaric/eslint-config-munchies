@@ -1,6 +1,6 @@
 {
   "name": "@stefanmaric/eslint-config-munchies-base",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Bite-sized eslint configurations for anyone, anywhere, at anytime — the base config",
   "main": "index.js",
   "repository": {
