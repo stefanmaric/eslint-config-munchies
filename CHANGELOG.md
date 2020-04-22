@@ -4,6 +4,7 @@
 
 - Fix workspaces file and add recursive publish script
 - Upgrade peerDependencies
+- Add recursive version script for releases
 
 ## 0.1.0 - 2019-12-16
 
