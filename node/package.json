@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/stefanmaric/eslint-config-munchies/tree/master/node",
   "peerDependencies": {
-    "eslint": "^6.7.2",
+    "eslint": "^7.4.0",
     "eslint-plugin-node": "^11.1.0"
   }
 }

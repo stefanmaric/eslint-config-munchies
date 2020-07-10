@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/stefanmaric/eslint-config-munchies/tree/master/jsx",
   "peerDependencies": {
-    "eslint": "^6.7.2",
+    "eslint": "^7.4.0",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.17.0"
   }

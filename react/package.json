@@ -14,8 +14,8 @@
   },
   "homepage": "https://github.com/stefanmaric/eslint-config-munchies/tree/master/react",
   "peerDependencies": {
-    "eslint": "^6.7.2",
+    "eslint": "^7.4.0",
     "eslint-plugin-react": "^7.17.0",
-    "eslint-plugin-react-hooks": "^3.0.0"
+    "eslint-plugin-react-hooks": "^4.0.6"
   }
 }
