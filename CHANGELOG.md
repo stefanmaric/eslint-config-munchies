@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Run publish scripts in sequence to prevent errors
 
 # 0.3.0 - 2020-07-17
 
