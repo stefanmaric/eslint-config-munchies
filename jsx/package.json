@@ -1,6 +1,6 @@
 {
   "name": "@stefanmaric/eslint-config-munchies-jsx",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Bite-sized eslint configurations for anyone, anywhere, at anytime — JSX and a11y",
   "main": "index.js",
   "repository": {

@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-munchies",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Bite-sized eslint configurations for anyone, anywhere, at anytime",
   "repository": {
     "type": "git",

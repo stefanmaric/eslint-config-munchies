@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+
+# 0.3.0 - 2020-07-17
+
 - Upgrade peer dependencies
 
 ## 0.2.0 - 2020-04-22
